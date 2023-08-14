@@ -4,8 +4,6 @@ import { motion } from "framer-motion";
 
 import './WelcomeCard.scss'
 
-import img from "../../../../../public/img/anunay-rai-e7yuZ3kECa0-unsplash.jpg"
-
 export const WelcomeCard: FC = () => {
     const { t } = useTranslation();
 
@@ -32,9 +30,6 @@ export const WelcomeCard: FC = () => {
                         <p>{t("Main.welcomeCard")}</p>
                     </div>
                 </div>
-                {/* <div className="rightContent">
-                    <img src={img} alt="" />
-                </div> */}
             </div>
         </motion.div>
     )
