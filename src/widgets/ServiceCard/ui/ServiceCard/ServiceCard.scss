@@ -1,0 +1,28 @@
+.serviceCard {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    height: 220px;
+    margin: 15px;
+    text-align: center;
+    cursor: pointer;
+
+    h2 {
+        font-size: 20pt;
+    }
+}
+
+@media (max-width: 800px) {
+    .serviceCard {
+        width: 180px;
+        height: 180px;
+
+        h2 {
+            font-size: 20px;
+        }
+    }
+}

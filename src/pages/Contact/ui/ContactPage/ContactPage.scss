@@ -1,0 +1,64 @@
+.ContactPage {
+    .title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #5C5C5C;
+        font-size: 64px;
+        font-weight: bold;
+        margin-bottom: 50px;
+    }
+
+    .info {
+        .content {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+
+            h2 {
+                font-size: 25pt;
+                margin: 5px;
+                font-weight: normal;
+            }
+
+            h3 {
+                font-size: 20pt;
+                margin: 5px;
+                font-weight: normal;
+            }
+
+            p {
+                font-size: 18pt;
+            }
+
+            .contact {
+                margin-top: 10px;
+                margin-bottom: 100px;
+
+                h3 {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 600px) {
+    .ContactPage {
+        .info {
+            .content {
+                h2 {
+                    font-size: 20pt;
+                }
+
+                h3 {
+                    font-size: 15pt;
+                }
+
+                p {
+                    font-size: 13pt;
+                }
+            }
+        }
+    }
+}

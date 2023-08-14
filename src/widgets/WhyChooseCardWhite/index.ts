@@ -1,0 +1,1 @@
+export { WhyChooseCardWhite } from './ui/WhyChooseCardWhite'

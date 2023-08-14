@@ -1,0 +1,39 @@
+.SevicesCard {
+    background-color: #D9D9D9;
+    // background-color: #94C1AC;
+    // background: linear-gradient(180deg, rgba(148,193,172,1) 0%, rgba(79,123,100,1) 100%);
+    // background-image: url(../../../../../public/img/anunay-rai-e7yuZ3kECa0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 25px;
+    margin-bottom: 80px;
+
+
+    .ServicesCardUp {
+        margin-bottom: 33px;
+
+        h2 {
+            max-width: 609px;
+            font-size: 20pt;
+            font-weight: normal;
+        }
+    }
+
+    .ServicesCardDown {
+        .servicesUp {
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .SevicesCard {
+        .ServicesCardUp {
+            h2{
+                font-size: 20px;
+            }
+        }
+    }
+}

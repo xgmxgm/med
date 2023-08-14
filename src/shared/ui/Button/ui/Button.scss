@@ -1,0 +1,16 @@
+.btn {
+    color: white;
+    min-width: 100px;
+    font-size: 16pt;
+    padding: 2px 10px;
+    border: #EB3223 solid 3px;
+    background-color: #EB3223;
+    border-radius: 25px;
+
+    &:hover {
+        color: black;
+        border: #EB3223 solid 3px;
+        background: transparent;
+        transition: 0.2s;
+    }
+}

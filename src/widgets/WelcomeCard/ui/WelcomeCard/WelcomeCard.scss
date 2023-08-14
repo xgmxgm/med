@@ -1,0 +1,46 @@
+.welcomeCard {
+    padding: 0 20px 80px 20px;
+
+    .welcomeCardContent {
+        display: flex;
+
+        .leftContent {
+            width: 60%;
+            display: flex;
+            justify-content: center;
+            align-items: start;
+
+            .contentText {
+                width: 687px;
+
+                p {
+                    font-size: 20pt;
+                }
+            }
+        }
+
+        .rightContent {
+            background-color: red;
+            img {
+                opacity: 0.6;
+                width: 50%;
+                height: 50%;
+            }
+        }
+    }
+}
+
+@media(max-width: 800px) {
+    .welcomeCard {
+
+        .welcomeCardContent {
+            .leftContent {
+                .contentText {
+                    p {
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+    }
+}

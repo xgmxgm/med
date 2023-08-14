@@ -1,0 +1,94 @@
+{
+    "Header": {
+        "language": "language",
+        "title": "IE Kalkabekova",
+        "workTime": "Working hours: 09:00 - 18:00, Sat - Sun days off",
+        "mail": "aia.viva@mail.ru",
+        "navigation": {
+            "services": "Services",
+            "company": "Home",
+            "contacts": "Contacts"
+        }
+    },
+    "Main": {
+        "welcomeCard": "Resolution of issues related to the regulation of registration, licensing and certification processes.",
+        "servicesCard": {
+            "title": "Advisory support for medical enterprises in Kazakhstan",
+            "servicesName": {
+                "LS": "LS registration",
+                "MI": "MI registration",
+                "BAD": "Registration of dietary supplements",
+                "LSCen": "Registration of LS prices",
+                "MICen": "Registration of MI prices",
+                "GS": "GS registration"
+            }
+        },
+        "whyChoose": {
+            "title": "Why do you have to choose 'Company name' ?",
+            "cardOne": {
+                "upText": "We guarantee fast and quality fulfillment of our services.",
+                "downText": "We guarantee timely and efficient services with guaranteed results."
+            },
+            "cardTwo": {
+                "upText": "Our experts are constantly evolving, taking into account changes in the market, keeping up to date with technological innovations and always on top of innovations.",
+                "downText": "Our team of experts includes specialists from different fields and professional specializations."
+            },
+            "cardThree": {
+                "upText": "We provide guarantees on the quality of our services.",
+                "downText": "We guarantee timely and efficient service delivery with a guaranteed positive outcome"
+            }
+        },
+        "Connection": {
+            "title": "Connection",
+            "phoneNumber": "Phone number",
+            "number": "+7 777 29 59 777",
+            "mail": "Mail",
+            "mail_a": "aia.viva@gmail.ru"
+        },
+        "Services": {
+            "1": {
+                "title": "The procedure for the official registration of medicines in Kazakhstan",
+                "info": "Medicinal products (drugs, drugs) are substances or combinations thereof that interact with the human or animal body, penetrate into their organs and tissues, and are used to prevent, diagnose, treat or alleviate diseases, as well as to restore, correct or change physiological functions of the human body."
+            },
+            "2": {
+                "title": "The procedure for official registration of medical devices in Kazakhstan",
+                "info": "A medical device is a device intended for the diagnosis, prevention or treatment of various diseases. Includes instruments, apparatus, implants, vial reagents, consumables, fixtures, appliances, furniture, and other similar items. The procedure for official registration of medical devices in Kazakhstan is aimed at ensuring their quality, safety and compliance with medical standards and requirements."
+            },
+            "3": {
+                "title": "The procedure for official registration of dietary supplements in Kazakhstan",
+                "info": "Biologically active additives (BAA) are a specialized type of food products containing natural or identical biologically active components."
+            },
+            "4": {
+                "title": "Procedure for official regulation of drug prices in Kazakhstan",
+                "info": "In various countries, there are organizations or public authorities that are responsible for regulating the prices of medical products. This may include the process of registering or approving medicine prices to ensure availability and control the cost of medical products."
+            },
+            "5": {
+                "title": "Procedure for official regulation of MI prices in Kazakhstan",
+                "info": "Medical device price registration refers to the process of establishing and controlling the prices of products related to medical devices. Medical devices include a wide range of products such as medical devices, medical equipment, consumables and other products used in health care and medical practice."
+            },
+            "6": {
+                "title": "Procedure for official registration of genetic means in Kazakhstan",
+                "info": "Genetic tools means genetic technologies, products or resources that relate to genetics, genomics or molecular biology. Examples include genetically modified organisms (GMOs), genetic tests, genetic medicines, etc."
+            }
+        },
+        "Contact": {
+            "IP": "Individual entrepreneur",
+            "name": "Kalkabekova Aigerim Malikovna",
+            "title": "Entrust the matter to professionals",
+            "phoneNumber": "Phone number",
+            "number": "+7 777 29 59 777",
+            "mail": "Mail",
+            "mail_a": "aia.viva@gmail.ru"
+        }
+    },
+    "Footer": {
+        "companyName": "IE Kalkabekova",
+        "law": "All rights reserved.",
+        "companyInfo": "Company name - Resolution of issues related to the regulation of registration, licensing and certification processes.",
+        "connection": {
+            "title": "Feedback",
+            "email": "aia.viva@mail.ru",
+            "phone": "+7 777 29 59 777"
+        }
+    }
+}
